@@ -12,7 +12,7 @@
   "issueSettings": {
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY",
-    "assignees": ["vital-ws","jonathanyomtov"]
+    "assignees": ["wss-qa"]
   },
   "remediateSettings": {
     "workflowRules": {
