@@ -11,8 +11,7 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW",
-    "issueType": "DEPENDENCY",
-    "assignees": ["vital-ws","wss-qa"]
+    "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
     "workflowRules": {
